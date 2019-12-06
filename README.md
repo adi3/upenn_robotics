@@ -7,3 +7,5 @@ MATLAB scripts for all six courses in UPenn's Robotics specialization on Courser
 - Perception
 - Estimation and Learning
 - Capstone (MIP Track)
+
+Link: https://www.coursera.org/specializations/robotics
